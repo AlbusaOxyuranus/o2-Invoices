@@ -352,3 +352,5 @@ MigrationBackup/
 source/.idea/.idea.O2.Services.Invoices/
 
 .DS_Store
+
+source/.idea/
