@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="330e8011-6897-4b96-af7f-c64552e06106" name="Default Changelist" comment="" />
+    <list default="true" id="330e8011-6897-4b96-af7f-c64552e06106" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.." beforeDir="false" afterPath="$PROJECT_DIR$/.." afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Data/Entities/InvoiceEntity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Business.Impl/Services/InMemoryInvoiceService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Business/Models/Invoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Business/Services/IInvoiceServices.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -49,6 +52,7 @@
         <option value="$PROJECT_DIR$/O2.Services.Invoices.Data/Configurations/InvoiceEntityConfiguration.cs" />
         <option value="$PROJECT_DIR$/O2.Services.Invoices.Business.Impl/Services/InMemoryInvoiceService.cs" />
         <option value="$PROJECT_DIR$/O2.Services.Invoices.Business/Models/Invoice.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.API/Startup.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592664152858</updated>
-      <workItem from="1592664184432" duration="1470000" />
+      <workItem from="1592664184432" duration="1725000" />
     </task>
     <servers />
   </component>
