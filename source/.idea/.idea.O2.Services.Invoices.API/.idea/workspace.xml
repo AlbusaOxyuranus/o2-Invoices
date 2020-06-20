@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="330e8011-6897-4b96-af7f-c64552e06106" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Data/Configurations/InvoiceEntityConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Data/Entities/InvoiceEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Business.Impl/Services/InMemoryInvoiceService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Business/Models/Invoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/O2.Services.Invoices.Business/Services/IInvoiceServices.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Business/Class1.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Business.Impl/Class1.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Data/Entities/InvoiceEntity.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Data/O2.Services.Invoices.Data.csproj" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Business/Models/IInvoiceServices.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Business.Impl/Services/IInvoceService.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Business/Services/IInvoiceServices.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Data/Configurations/InvoiceEntityConfiguration.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Business.Impl/Services/InMemoryInvoiceService.cs" />
+        <option value="$PROJECT_DIR$/O2.Services.Invoices.Business/Models/Invoice.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1daXPNAHiDlZ5ndGMdjm3QJH5EH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Developer/Xamarin/android-sdk-macosx" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.O2.Services.Invoices.API: IIS Express">
+    <configuration name="O2.Services.Invoices.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/O2.Services.Invoices.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="O2.Services.Invoices.API: O2.Services.Invoices" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/O2.Services.Invoices.API.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="O2.Services.Invoices" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330e8011-6897-4b96-af7f-c64552e06106" name="Default Changelist" comment="" />
+      <created>1592664152858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592664152858</updated>
+      <workItem from="1592664184432" duration="1470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/denisprokhorchik/GitHub/o2/source/Services/Invoices/source" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="279" key="Rider.ProjectTemplateDialog.Size" timestamp="1592664453608">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="279" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1592664453608" />
+    <state x="672" y="237" key="RiderGenerateDialog" timestamp="1592665183947">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="672" y="237" key="RiderGenerateDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592665183947" />
+    <state x="461" y="179" key="SettingsEditor" timestamp="1592664534958">
+      <screen x="0" y="23" width="1920" height="1009" />
+    </state>
+    <state x="461" y="179" key="SettingsEditor/0.23.1920.1009@0.23.1920.1009" timestamp="1592664534958" />
+  </component>
+</project>
